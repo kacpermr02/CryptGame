@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/Dungeon.umap",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/BP_Player.uasset",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/BP_CryptRaiderGameMode.uasset",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/BP_Chandalier_Dunegon.uasset",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/BP_Torch_Dungeon.uasset",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/BP_SecretWall.uasset",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/Dungeon_BuiltData.uasset",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/DungeonFinal.umap",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/BP_MovingPlatform.uasset",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/BP_RotatingPlatform.uasset",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/M_VikingShield.uasset",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/DungeonFinal_BuiltData.uasset",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/god_of_war.uasset",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/uploads_files_2167338_VikingShield.uasset",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/Viking_Shield_1_BaseColor.uasset",
+				"C:/Users/kacpe/Documents/Unreal Projects/CryptRaider/Content/IA_Grab.uasset"
+			]
+		}
+	]
+}
